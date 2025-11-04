@@ -1,0 +1,9 @@
+modules = ["python-3.11"]
+
+[env]
+PYTHONWARNINGS = "ignore"
+
+run = "python3 main.py"
+language = "python"
+
+[nix]

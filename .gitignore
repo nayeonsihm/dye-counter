@@ -1,0 +1,13 @@
+.env
+dye_data.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pythonlibs/
+*.so
+.venv/
+venv/
+ENV/
+env/
